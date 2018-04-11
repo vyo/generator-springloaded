@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2018 Manuel Weidmann <manuel.weidmann@7p-group.com> (gitlab.7p-group.com)
+Copyright (c) 2018 Manuel Weidmann <weidmann.manuel@gmail> (github.com/vyo)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
