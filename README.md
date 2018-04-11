@@ -1,4 +1,5 @@
 # generator-springloaded
+[![npm-image](https://badge.fury.io/js/generator-springloaded.svg "springloaded")](https://npmjs.org/package/generator-springloaded)
 
 > Creates Spring Boot/Cloud projects via Spring Initializr
 
@@ -28,8 +29,4 @@ Yeoman will walk you through the process one question at a time. You can always 
 ## License
 
 MIT © [Manuel Weidmann](github.com/vyo)
-
-
-[npm-image]: https://badge.fury.io/js/generator-springloaded.svg
-[npm-url]: https://npmjs.org/package/generator-springloaded
 
