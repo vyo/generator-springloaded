@@ -2,11 +2,11 @@
   "name": "generator-springloaded",
   "version": "0.1.0",
   "description": "Creates Spring Boot/Cloud projects via Spring Initializr",
-  "homepage": "github.com/vyo/generator-springloaded",
+  "homepage": "https://github.com/vyo/generator-springloaded",
   "author": {
     "name": "Manuel Weidmann",
     "email": "weidmann.manuel@gmail.com",
-    "url": "github.com/vyo"
+    "url": "https://github.com/vyo"
   },
   "files": [
     "generators"
@@ -86,6 +86,6 @@
       "prettier"
     ]
   },
-  "repository": "vyo/generator-nomad",
+  "repository": "vyo/generator-springloaded",
   "license": "MIT"
 }
