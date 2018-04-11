@@ -50,7 +50,7 @@ module.exports = class extends Generator {
         name: `What's the ${chalk.yellow('name')} of your app?`,
         description: `${chalk.yellow('Describe')} your app in a few words:`,
         packageName: `Your app's ${chalk.yellow('package name')} will be as follows:`,
-        dependencies: `Pick and choose the ${chalk.yellow('dependencies')} you want to use:`
+        dependencies: `Pick and choose the ${chalk.yellow('dependencies')} you want to use; start typing to narrow down the list:`
       }
 
       const dependencies = spring.dependencies.values.map(it => {
