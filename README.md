@@ -1,7 +1,7 @@
 # generator-springloaded
 [![npm-image](https://badge.fury.io/js/generator-springloaded.svg "springloaded")](https://npmjs.org/package/generator-springloaded)
 
-> Creates Spring Boot/Cloud projects via Spring Initializr
+> Create Spring Boot/Cloud projects from your terminal (via Spring Initializr)
 
 ## Installation
 
